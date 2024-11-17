@@ -40,7 +40,7 @@ body{
     top:var(--yPos);
     transform: translate(-50%,-50%);
     border-radius: 50%;
-    transition: width 1s,height 1s;
+    transition: width 2s,height 2s;
 }
 
 .btn:hover::before{
